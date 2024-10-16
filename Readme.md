@@ -41,6 +41,6 @@
 - Tipos de serviço de nuvem e datacenter no local
 para cada tipo de serviço as responsabilidades podem ser de (Microsoft, Cliente e Compartilhada)
 
-  IaaS - Serviço de nuvem mais flexivel
-  PaaS - Focado no desenvimento de aplicativos
-  SaaS - Modelo de pagamento conforme o uso
+  - IaaS - Serviço de nuvem mais flexivel
+  - PaaS - Focado no desenvimento de aplicativos
+  - SaaS - Modelo de pagamento conforme o uso
