@@ -47,4 +47,4 @@ para cada tipo de serviço as responsabilidades podem ser de (Microsoft, Cliente
 
 
 
-![Criação do Grupo de Recursos](image.png)
+![Criação do Grupo de Recursos](assets/image.png)
