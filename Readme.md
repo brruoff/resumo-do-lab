@@ -44,3 +44,7 @@ para cada tipo de serviço as responsabilidades podem ser de (Microsoft, Cliente
   - IaaS - Serviço de nuvem mais flexivel
   - PaaS - Focado no desenvimento de aplicativos
   - SaaS - Modelo de pagamento conforme o uso
+
+
+
+![Criação do Grupo de Recursos](a.png)
