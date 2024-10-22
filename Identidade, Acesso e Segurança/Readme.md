@@ -62,3 +62,10 @@ Identidade, Acesso e Segurança
 				
 			
 			
+Microsoft Entra ID
+- Criar usuário local para replicar na cloud
+- Permissões / Rabc
+- Listagem de membros, coluna de sincronização
+- Usuario removido pode ser restaurado em até 30 dias
+- Health Preview (SLA)
+- Windows Defender for cloud (Integra com aws, gcp)
